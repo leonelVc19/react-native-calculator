@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "calculator-tutorial",
+    "name": "Cal-Pro",
     "slug": "calculator-tutorial",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/calculator.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
